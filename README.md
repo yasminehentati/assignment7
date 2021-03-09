@@ -17,7 +17,7 @@ This package has 5 vignettes available for users.
 * `unmarked` is an overview of the whole package. 
 
 ## Application(s)
-Are there any applications of the package, as demonstrated on a website like we built, someone’s blog, Twitter post, etc?
+I'm not sure if this is specifically talking about web applications (?) but I couldn't find any.
 
 ## Review
 
